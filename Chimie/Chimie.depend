@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1512222715 source:c:\users\ina\desktop\chimie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"Functii.h"
+
+1512222628 c:\users\ina\desktop\chimie\functii.h
+	<iostream>
+	<string>
+	<fstream>
+
+1512271334 source:c:\users\muresan\desktop\chimie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"Functii.h"
+
+1512308362 c:\users\muresan\desktop\chimie\functii.h
+	<iostream>
+	<string>
+	<fstream>
+
+1512271334 source:g:\proiecte scoala vietii\chimie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"Functii.h"
+
+1512308364 g:\proiecte scoala vietii\chimie\functii.h
+	<iostream>
+	<string>
+	<fstream>
+

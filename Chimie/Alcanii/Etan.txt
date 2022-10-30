@@ -1,0 +1,7 @@
+*ETAN*
+
+     H    H
+     |    |
+H -- C -- C -- H    CH3-CH3
+     |    |
+     H    H

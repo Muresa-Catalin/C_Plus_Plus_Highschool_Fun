@@ -1,0 +1,10 @@
+1.Metan
+2.Etan
+3.Propan
+4.Butan
+5.Pentan
+6.Hexan
+7.Heptan
+8.Octan
+9.Nonan
+10.Decan

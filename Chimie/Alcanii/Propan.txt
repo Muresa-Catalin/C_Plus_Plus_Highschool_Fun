@@ -1,0 +1,7 @@
+*PROPAN*
+
+     H    H    H
+     |    |    |
+H -- C -- C -- C -- H     CH3-CH2-CH3
+     |    |    |
+     H    H    H

@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1544737967 source:c:\users\muresan\desktop\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1544457739 c:\users\muresan\desktop\spanzuratoarea\include\afisariconsola.h
+
+1545119182 source:c:\users\elev\desktop\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
+1545117765 source:c:\users\elev\desktop\proiecte c++\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
+1547793452 source:e:\proiecte scoala vietii\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
+1547793452 source:i:\proiecte scoala vietii\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
+1547793452 source:g:\proiecte scoala vietii\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
+1547797052 source:e:\programs\de pe stick\proiecte scoala vietii\spanzuratoarea\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<stdlib.h>
+
